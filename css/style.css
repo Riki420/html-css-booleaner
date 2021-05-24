@@ -32,14 +32,13 @@ header{
 }
 
 #Author {
-    color: grey;
-    font-size: 1em;
-    line-height: 20px;
+    color: rgb(158, 158, 158);
+    font-size: 1em;    
 }
 
 a{
     text-decoration: none;
-    color: rgb(0, 151, 197);
+    color: rgb(5, 165, 214);
 }
 
 .underlined{
@@ -53,7 +52,7 @@ figcaption{
 /*Tabella*/
 
 th{
-    background-color: #3371ce;
+    background-color: #2f67b9;
     color: white;
 }
 
